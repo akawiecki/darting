@@ -7,7 +7,7 @@ ans= numeric()
 b= 999
 
 for (i in 1:b)
-  ans[i]= max (rexp(55,1))
+  ans[i]= max (rexp(100,1))
 
 #i'm just making stupid changes so as to make a difference in this world
 
