@@ -4,5 +4,10 @@
 
 ans= numeric()
 
-for (i in 1:999)
+b= 999
+
+for (i in 1:b)
   ans[i]= max (rexp(35,1))
+
+
+
